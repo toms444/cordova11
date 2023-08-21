@@ -1,0 +1,4 @@
+*.txt
+cordova.cmd
+coverage
+jasmine.json
